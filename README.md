@@ -1,2 +1,2 @@
-# laundry-notification
+# 洗濯終了通知システム
 raspberry Pi を使って洗濯の終了を通知するシステム
